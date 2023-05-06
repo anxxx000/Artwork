@@ -1,3 +1,3 @@
-# trial
+# Trial
 
-Hello This is a trial
+Hello! This is a trial!
