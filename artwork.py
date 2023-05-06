@@ -1,5 +1,3 @@
-#An Ni Xu 261053392
-
 def star(t,size,color):
     
     """ (Turtle, float, str) -> NoneType
